@@ -5,7 +5,7 @@
 }
 body{
     text-align: center;
-  background-image: url(./imagem/Taylor_Swift_-_Taylor_Swift.png);
+  background-image: url(./imagem/kanye-west_MI0005472981-MN0000361014.jpeg);
   margin: 0;
   font-family: 'Poppins', sans-serif;
   color: white;
@@ -16,12 +16,12 @@ h1{
 .conteudo{
     position: relative;
     top: 30px;
-    width: 500px;
+    width: 600px;
     margin: auto;
     padding-bottom: 50px;
 }
 main{
-    background-color: #03979c;
+    background-color: #3e3f3f;
     border-radius: 20px;
     min-width: 320px;
     max-width: 700px;
